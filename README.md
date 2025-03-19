@@ -318,5 +318,5 @@ O HydroVision é um projeto pessoal desenvolvido por Rudhy Maycon Pereira da Cos
 ---
 
 <p align="center">
-  Desenvolvido com 💧 para a gestão sustentável dos recursos hídricos.
+  Desenvolvido por Rudhy Maycon Pereira da Costa
 </p>
